@@ -450,7 +450,7 @@ input[type="file"] {
 .upload-label{
     display: inline-block;
     padding: 12px 30px;
-    background: #39D2B4;
+    background: rgb(214, 78, 107);
     color: #fff;
     font-size: 1em;
     transition: all .4s;
@@ -458,8 +458,8 @@ input[type="file"] {
 }
 
 .upload-label:hover{
-    background: #34495E;
-    color: #39D2B4;
+    background: rgb(150, 10, 28);
+    color: rgb(238, 158, 191);
 }
 
 .loader {
